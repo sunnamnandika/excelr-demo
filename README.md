@@ -1,2 +1,3 @@
 # excelr-demo
-This is my fisrt repository
+This is my first repository
+Author - Sunnam Nandika
